@@ -1,0 +1,4 @@
+.visual_img { position: relative; width: 100%; height: 500px; background-size: cover; background-position: center center; } 
+.visual { position: absolute; bottom: 2rem; max-width: 500px; margin-left: 2rem; } 
+.visual_title { color: #fff; } 
+.visual_desc { color: #fff; font-size: 1rem; } 
